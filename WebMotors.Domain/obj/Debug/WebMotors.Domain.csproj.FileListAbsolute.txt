@@ -1,0 +1,6 @@
+C:\Users\william\source\repos\WebMotors\WebMotors.Domain\bin\Debug\WebMotors.Domain.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Domain\bin\Debug\WebMotors.Domain.pdb
+C:\Users\william\source\repos\WebMotors\WebMotors.Domain\obj\Debug\WebMotors.Domain.csprojAssemblyReference.cache
+C:\Users\william\source\repos\WebMotors\WebMotors.Domain\obj\Debug\WebMotors.Domain.csproj.CoreCompileInputs.cache
+C:\Users\william\source\repos\WebMotors\WebMotors.Domain\obj\Debug\WebMotors.Domain.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Domain\obj\Debug\WebMotors.Domain.pdb

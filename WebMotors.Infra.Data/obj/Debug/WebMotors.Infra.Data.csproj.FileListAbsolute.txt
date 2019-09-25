@@ -1,0 +1,14 @@
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\WebMotors.Infra.Data.dll.config
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\WebMotors.Infra.Data.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\WebMotors.Infra.Data.pdb
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\WebMotors.Domain.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\WebMotors.Domain.pdb
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\obj\Debug\WebMotors.Infra.Data.csprojAssemblyReference.cache
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\obj\Debug\WebMotors.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\obj\Debug\WebMotors.Infra.Data.csproj.CopyComplete
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\obj\Debug\WebMotors.Infra.Data.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Infra.Data\obj\Debug\WebMotors.Infra.Data.pdb

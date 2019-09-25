@@ -1,0 +1,9 @@
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Service.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Service.pdb
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\obj\Debug\WebMotors.Service.csprojAssemblyReference.cache
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\obj\Debug\WebMotors.Service.csproj.CoreCompileInputs.cache
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\obj\Debug\WebMotors.Service.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\obj\Debug\WebMotors.Service.pdb
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Domain.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Domain.pdb
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\obj\Debug\WebMotors.Service.csproj.CopyComplete
