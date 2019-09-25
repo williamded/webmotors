@@ -9,13 +9,14 @@ using WebMotors.Application.Web.ViewModels;
 using WebMotors.Domain.Entities;
 using WebMotors.Domain.Enums;
 using WebMotors.Infra.Data.Repositories;
+using WebMotors.Service;
 using WebMotors.Service.RestClient;
 
 namespace WebMotors.Application.Web.Controllers
 {
     public class AnunciosWebMotorsController : Controller
     {
-        public AnunciosWebMotorsRepository db = new AnunciosWebMotorsRepository();
+        private readonly AnunciosWebMotorsServices db = new AnunciosWebMotorsServices();
         
         // GET: AnunciosWebMotors
         public ActionResult Index()

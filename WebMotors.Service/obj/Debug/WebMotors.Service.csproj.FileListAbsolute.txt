@@ -7,3 +7,8 @@ C:\Users\william\source\repos\WebMotors\WebMotors.Service\obj\Debug\WebMotors.Se
 C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Domain.dll
 C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Domain.pdb
 C:\Users\william\source\repos\WebMotors\WebMotors.Service\obj\Debug\WebMotors.Service.csproj.CopyComplete
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Infra.Data.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\EntityFramework.dll
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Infra.Data.pdb
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\WebMotors.Infra.Data.dll.config
+C:\Users\william\source\repos\WebMotors\WebMotors.Service\bin\Debug\EntityFramework.xml
